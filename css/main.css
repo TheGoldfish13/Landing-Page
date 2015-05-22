@@ -1,0 +1,17 @@
+body{
+	background-image: url("../img/illusion.png");
+}
+
+#name{
+	font-family: 'Crimson Text', serif;
+	color: white;
+	font-size: 60px;
+	letter-spacing: 1px;
+    text-shadow: 70px 70px black;
+    margin-top: 355px;
+    margin-left: 40%;
+}
+#white{
+	background-image: url("../img/escheresque.png");
+	height: 265px;
+}
