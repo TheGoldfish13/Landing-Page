@@ -16,7 +16,7 @@
 			<nav class= "col-xs-12" id="nav-senpai">
 				<div class="col-xs-4"></div>
 				<div class="col-xs-4">
-				<a href="Projects.php" id="projects-link">Stuff</a>
+				<a href="Projects.php" id="projects-link">Info</a>
 				<a href="Projects.php" id="move-bitch">Contact</a>
 				</div>
 			</nav>

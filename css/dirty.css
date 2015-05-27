@@ -1,0 +1,9 @@
+body{
+	background-image: url("../img/mountains.jpg");
+    background-size:cover;
+}
+#terrible-lies{
+	font-size: 19px;
+	color: white;
+	text-align: center;
+}
