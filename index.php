@@ -5,6 +5,8 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Raleway:600' rel='stylesheet' type='text/css'>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 	<title>test</title>
 </head>
 <body>
@@ -17,7 +19,7 @@
 				<div class="col-xs-4"></div>
 				<div class="col-xs-4">
 				<a href="Projects.php" id="projects-link">Info</a>
-				<a href="Projects.php" id="move-bitch">Contact</a>
+				<a href="contact.php" id="move-bitch">Contact</a>
 				</div>
 			</nav>
 		</div>

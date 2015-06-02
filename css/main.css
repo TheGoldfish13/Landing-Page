@@ -29,3 +29,24 @@ body{
 	color: black;
 	text-decoration: none;	
 }
+
+@media screen and (max-width:375px) {
+#name{
+	font-family: 'Crimson Text', serif;
+	color: white;
+	font-size: 28px;
+	letter-spacing: 1px;
+    text-shadow: 40px 40px black;
+    margin-top: 450px;
+    margin-left: 21%;
+}
+#white{
+	background-image: url("../img/escheresque.png");
+	height: 285px;
+}
+#nav-senpai{
+	margin-top: 16%;
+	font-size: 13px;
+}
+
+}
